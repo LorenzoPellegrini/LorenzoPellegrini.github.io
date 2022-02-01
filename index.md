@@ -3,6 +3,6 @@
 
 
 ## Here are some of my works
-### p5jd
+### p5js
 
 - [Generative Flower] (https://lorenzopellegrini.github.io/generative_flower/)
